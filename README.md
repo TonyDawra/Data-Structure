@@ -128,8 +128,6 @@ A sample interaction is provided at the end of the project specification (`CSIS2
 
 ## Author
 
-* Your Name (Advisor: Dr. XYZ)
+* Tony Dawra
 
 ---
-
-*CSIS216 Data Structures – Fall 2023-2024*
